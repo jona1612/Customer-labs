@@ -1,0 +1,12 @@
+.topbar {
+    padding: 15px;
+    color: white;
+    height: 10vh;
+    font-weight: "bold";
+    font-size: 20px;
+    letter-spacing: "1px";
+    overflow: "hidden";
+    text-overflow: "ellipsis";
+    white-space: "noWrap";
+    background-color: rgba(84, 198, 221, 0.978);
+}
